@@ -1,4 +1,4 @@
-# Social-Pluse Project
+# SocioSphere Project
 
 ## Description
 
