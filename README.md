@@ -1,4 +1,4 @@
-# Here is a README file for your MERN (MongoDB, Express, React, Node.js) project:
+# Here is a README file for  MERN (MongoDB, Express, React, Node.js) project:
 # Social-Pluse Project
 
 ## Description
@@ -41,7 +41,6 @@ shree/
 │   ├── package-lock.json
 │   ├── package.json
 └── .gitignore
-
 # Prerequisites
 * Node.js
 * npm or yarn
